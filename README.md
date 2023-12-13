@@ -31,7 +31,7 @@ Within this workshop, participants will delve into the creation of a chatbot uti
 **Manai Mortadha**
 - [GitHub](https://github.com/MortadhaMannai) (Don't forget to follow me!)
 
-For any questions, feedbacks related to this workshop, feel free to [contact Me]:
+For any questions, feedbacks related to this workshop, feel free to contact Me:
 Email: mmannaimortadha898@gmail.com
 Linkedin: https://www.linkedin.com/in/mannai-mortadha
 
