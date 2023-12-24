@@ -2,7 +2,7 @@
 # NMTC-2023-LLM-Workshop
 
 Author : Manai Mortadha
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Welcome to the Repository
 
 Welcome to the NMTC-2023-LLM-Workshop repository! Here, you'll find comprehensive resources, code, and instructions for exploring and building AI-powered chatbots using cutting-edge language models. This repository aims to provide a hands-on learning experience in working with different frameworks and APIs to understand the capabilities of language models.
